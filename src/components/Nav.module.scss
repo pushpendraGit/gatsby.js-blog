@@ -1,0 +1,31 @@
+.navcontainer{
+    display: block;
+}
+
+.navitem{
+    font-size: .9rem;
+    margin-right: 1.3rem;
+    color: #C0C0C0;
+}
+
+.navitem:hover{
+    color: #666666;
+}
+
+.activeNavItem{
+    color: #333333;
+}
+
+.title{
+    color: #999999;
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.navlistcontainer{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    width: 100%;
+}
+
